@@ -1,6 +1,10 @@
 {
-  "latestVersionCode": 7,
+  "latestVersionCode": 11,
   "latestVersionName": "1.4.2",
   "updateUrl": "https://play.google.com/store/apps/details?id=com.selocorp.kazatutanagi",
-  "message": "Gerekli aksaklıklar giderildi, geri bildirimleriniz bizim için önemli"
+  "message": "• Yeni: Kaza Sonrası Süreç Rehberi — sigorta, eksper, değer kaybı ve tahkim adım adım
+• Yeni: Evrak Cüzdanı — poliçe, muayene ve ehliyet bitmeden hatırlatma
+• Yeni: Hasar Dosyalarım — dosyanı ve önemli süreleri takip et
+• Yeni: Dilekçe Hazırla — tazminat, değer kaybı ve itiraz dilekçeleri PDF olarak
+• Tutanak süresi için bildirim hatırlatması"
 }
